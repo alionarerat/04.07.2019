@@ -9,5 +9,6 @@ h2
 }
 p
 {
-    background-color: light-green;
+    background-color: darkseagreen;
+    border: 2px red solid;
 }    
